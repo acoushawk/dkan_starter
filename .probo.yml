@@ -1,5 +1,5 @@
-assets:
-  - .s3curl
+#assets:
+#  - .s3curl
 
 steps:
   - name: Setup QA site
