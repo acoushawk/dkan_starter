@@ -66,3 +66,4 @@ test:
   post:
     - echo $CIRCLE_ARTIFACTS; cp -av tests/assets $CIRCLE_ARTIFACTS:
         parallel: true
+
